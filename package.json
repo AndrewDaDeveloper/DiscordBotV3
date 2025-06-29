@@ -1,0 +1,27 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "My discordbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew",
+  "license": "ISC",
+  "dependencies": {
+    "@ai-sdk/deepinfra": "^0.2.0",
+    "@google-ai/generativelanguage": "^3.1.0",
+    "@huggingface/inference": "^3.6.1",
+    "ai": "^4.2.0",
+    "axios": "^1.8.4",
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7",
+    "form-data": "^4.0.2",
+    "fs": "^0.0.1-security",
+    "google-auth-library": "^10.0.0-rc.1",
+    "node-fetch": "^3.3.2",
+    "openai": "^4.89.0",
+    "string-similarity": "^4.0.4",
+    "together-ai": "^0.13.0"
+  }
+}
